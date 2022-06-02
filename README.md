@@ -1,4 +1,4 @@
 # ESHOP
-### [Stránka](https://vacashop.netlify.com)
+### [Stránka](https://naseshop.netlify.com)
 
 ## Běžte se podívat !
